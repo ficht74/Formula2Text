@@ -1,0 +1,72 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 2063163,
+  "description": "",
+  "download_checksums": {
+    "/content/drive/MyDrive/data/my_corpus/train_data_reshaped_shuffeled_cleaned.csv": {
+      "num_bytes": 1757685,
+      "checksum": null
+    },
+    "/content/drive/MyDrive/data/my_corpus/valid_data_reshaped_shuffeled_cleaned.csv": {
+      "num_bytes": 222274,
+      "checksum": null
+    },
+    "/content/drive/MyDrive/data/my_corpus/test_data_all_cleaned_reshaped.csv": {
+      "num_bytes": 47262,
+      "checksum": null
+    }
+  },
+  "download_size": 2027221,
+  "features": {
+    "image_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "formula": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label_list": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "image": {
+      "_type": "Image"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 4090384,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1788999,
+      "num_examples": 3135,
+      "dataset_name": "csv"
+    },
+    "valid": {
+      "name": "valid",
+      "num_bytes": 226138,
+      "num_examples": 390,
+      "dataset_name": "csv"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 48026,
+      "num_examples": 80,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
