@@ -1,0 +1,78 @@
+\tilde { Q } \tilde { F } R - \tilde { R } F Q
+( a * v ) * b - a * ( v * b ) \in O ( M )
+\beta ( g ) \equiv m { \frac { \partial g } { \partial m } }
+W \mapsto - \frac { 1 } { W ^ { * } }
+M ( A ) \geq 0 \; \mathrm { f o r } A \in \Lambda
+\rho \equiv \frac { \frac { d \Omega } { d \Sigma } } { \Omega }
+Z [ \mathcal { J } ] \propto \int
+R \leftrightarrow 1 / ( \alpha ^ { 2 } R )
+y ^ { k } \to y ^ { k } + \epsilon V ^ { k } ( y ^ { j } )
+S \leq \frac { A - A ^ { \prime } } { 4 }
+F ^ { \beta } \equiv \frac { 1 } { \beta } W ^ { \beta }
+\delta t \sim \delta r \sim ( N g ^ { 2 } ) ^ { - 1 / 4 }
+{ \psi } ( { \bf x } ) \equiv { \tilde { \psi } } ( t { \bf x } )
+\theta \rightarrow 0 \mathrm { a s } r \rightarrow 1
+F \rightarrow F + \alpha \wedge F - F \wedge \alpha
+\phi \approx \theta + \frac { \pi } { 2 \alpha }
+U ( 1 ) \to \hat { G } \stackrel { \pi } { \to } G
+{ \frac { \partial ^ { 2 } I } { \partial U \partial U } }
+\int ( C ^ { 9 } + C ^ { 8 } d \chi ^ { \prime } )
+\int d ^ { 1 0 } q e ^ { i q \cdot Y } F ( q )
+F + g + \mid g \mid > m > g - \mid g \mid + F
+0 \leq \sqrt { r } \leq a \leq b
+\sqrt { | \kappa | j } \ll 1 + \mu \theta V ( n ) / \hbar ^ { 2 }
+S ^ { 1 } \rightarrow \widehat { G } \rightarrow G
+\frac { \hbar \: c } { 2 G M m } \ll 1
+a \to a + \big [ 2 e +
+\langle Q ^ { F } \bar { Q } ^ { F } \rangle \neq 0
+\varphi \psi ( p ) \equiv \varphi ( p ) \psi ( p )
+E \geq \frac { 2 \pi } { e } \vert n \vert
+< 0 | \phi ( x ) \phi ( x ) | 0 > \approx \delta ^ { - 2 }
+\lambda \to { \cal U } ( x ) * \lambda * { \cal U } ^ { - 1 } ( x )
+\gamma \equiv { \frac { \beta } { 2 N ^ { 2 } } }
+\pi ^ { i j } \equiv \sqrt { g } ( K ^ { i j } - g ^ { i j } K )
+Q ^ { 0 } \sim \frac { n } { P ^ { 0 } } \sim \sqrt { n }
+R : Q \longrightarrow \mathfrak { g } \otimes \mathfrak { g }
+s \zeta ( 1 + 2 s ) \to { \frac { 1 } { 2 } }
+\psi ^ { - 1 } ( p ) \equiv ( \psi ( p ) ) ^ { - 1 }
+\rho ( N ) \simeq C N ^ { B } e ^ { A N ^ { \delta } }
+\partial \lambda : S ^ { 1 } \rightarrow U ( 1 ) \sim S ^ { 1 }
+\eta \equiv { \frac { m } { \sqrt { \lambda ^ { \prime } } } }
+f < - { \frac { ( 1 - \delta ) } { ( 1 + \delta ) } }
+\zeta \equiv \eta ^ { 0 } k ^ { 0 } - \vec { \eta } \cdot \vec { k }
+{ \cal M } \propto \int { \cal D } \psi { \cal D } F
+\int j \wedge d \phi \rightarrow \int j \wedge d ( \phi + \epsilon )
+d i m { \ } k e r \bar { \partial } > 0
+p \equiv \frac { \bar { \lambda } } { 8 \pi - \bar { \lambda } }
+e E \to Q E + g H ; \qquad e H \to Q H - g E
+\frac { \dot { H } } { H } - 2 \dot { \bar { \phi } } \geq 0
+G \equiv \frac { 1 } { \mu M }
+F \le 4 \sqrt { N ^ { 2 } - \frac { 1 6 } { 8 1 } }
+E \geq \frac { w ^ { 2 } \zeta ^ { 2 } } { 4 ( 2 N + w ) }
+J ^ { \mu } \equiv \bar { \psi } \gamma ^ { \mu } P ^ { + } \psi
+\int \int [ ( e ^ { Q } - 1 ) L + C ]
+d \mu \rightarrow { d } { \mu } e x p \left[ - i \alpha \nu \right]
+\int C \wedge ( e ^ { F } - e ^ { F ^ { \prime } } )
+\Upsilon ( X ) \equiv \mathrm { P i c } ( X ) \perp { \cal U }
+\mathfrak r ^ { * } \equiv r + g \left( r \right)
+| \delta \phi ( x ) | \approx \frac { H } { 2 \pi }
+\pi \longrightarrow e ^ { - i \theta } \pi e ^ { i \theta }
+S \sim \int \Psi \star ( c ( \pi / 2 ) \Psi )
+\tilde { t } \propto t ^ { ( D - 2 - { \cal K } ) / ( D - 2 ) }
+\tilde { V } ( z ^ { 2 } ) \equiv 2 V ( z )
+\tau ^ { m a g } \rightarrow \tau ^ { m a g } + b
+\sigma \equiv E / L \propto v ^ { 2 } m
+| k | < \frac { \epsilon \sqrt { a } } { 2 ( 1 + \epsilon ) }
+\alpha ^ { \prime } \rightarrow 0 \qquad \mathrm { w i t h } \qquad
+\star : \; { \cal A } \otimes { \cal A } \to { \cal A }
+x ^ { 6 } \rightarrow x ^ { 6 } + 2 \pi i k
+\langle W ^ { 1 2 } ( 1 ) W ^ { 1 3 } ( 2 ) \rangle
+\mid B ( t ) \mid \leq K e ^ { \mid t \mid / R }
+{ \cal { D } } \rightarrow { \cal { D } } + { \cal { D } } \lambda
+B \rightarrow 1 \pm \frac { 2 i \sigma } { \pi }
+W ^ { ( { D } ) } ( r ) \propto r ^ { - ( 2 - \epsilon ) }
+{ \cal C } ( N ) \supset \mathbf { d S ^ { + } } ( \Lambda ( N ) )
+\sqrt { \frac { m } { 3 2 \pi ^ { 3 } L ^ { 3 } } } e ^ { - m L }
+\mathrm { a r g } x < \frac { n + 2 } { m + n + 1 } \pi
+\rho \equiv \frac { \frac { d \Omega } { d \Sigma } } { \Omega }
+S \lesssim H ^ { - 2 } \sim 1 0 ^ { 1 2 0 }
