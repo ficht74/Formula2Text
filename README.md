@@ -1,4 +1,2 @@
 # Investigating Models for the Transcription of Mathematical Formulas in Images
-This GitHub repository contains the brand new Formula2Text dataset and the notebooks used in the experiments.
-
-Test 1
+Welcome to our GitHub repository dedicated to our paper "Investigating Models for the Transcription of Mathematical Formulas in Images". We are the first to publish a paper that analyzes AI models for the automatic transcription of mathematical formulas in images. It includes the new dataset "Formula2Text" and Jupyter notebooks that we used in our experiments. The link to our published article is https://www.mdpi.com/2658194.
