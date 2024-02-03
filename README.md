@@ -1,2 +1,2 @@
-# KI-basierte Methoden zur Transkription von mathematischen Formeln
-This GitHub repository contains the brand new Formula2Text-4k dataset and the notebooks used in the experiments.
+# Investigating Models for the Transcription of Mathematical Formulas in Images
+This GitHub repository contains the brand new Formula2Text dataset and the notebooks used in the experiments.
